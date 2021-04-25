@@ -1,0 +1,4 @@
+#Wed Apr 07 07:06:24 NPT 2021
+base.0=/home/anish/AndroidStudioProjects/flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
